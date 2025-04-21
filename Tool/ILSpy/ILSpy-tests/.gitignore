@@ -1,0 +1,6 @@
+*-decompiled
+*-output
+obj
+bin
+!/mcs/*/bin/
+!/mcs/*/bin/*
