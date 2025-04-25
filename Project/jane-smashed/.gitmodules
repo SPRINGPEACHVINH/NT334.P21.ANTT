@@ -1,0 +1,3 @@
+[submodule "php-fpm/laravel"]
+	path = php-fpm/laravel
+	url = git@github.com:kvetak/sMaSheD.git

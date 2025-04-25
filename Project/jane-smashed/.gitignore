@@ -1,0 +1,4 @@
+.env
+mariadb/data
+php-fpm/data
+php-fpm/data/*
